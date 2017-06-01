@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  MartixManipulation.cpp
+d:\vs2015en\project\curriculumdesign\martixmanipulation\martixmanipulation\matrix.hpp(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  d:\vs2015en\project\curriculumdesign\martixmanipulation\martixmanipulation\matrix.hpp(27): note: 编译类 模板 成员函数“GPSDCurriculumDesign::Matrix<int>::Matrix(int,int,double)”时
+  d:\vs2015en\project\curriculumdesign\martixmanipulation\martixmanipulation\martixmanipulation.cpp(14): note: 参见对正在编译的函数 模板 实例化“GPSDCurriculumDesign::Matrix<int>::Matrix(int,int,double)”的引用
+  d:\vs2015en\project\curriculumdesign\martixmanipulation\martixmanipulation\martixmanipulation.cpp(14): note: 参见对正在编译的类 模板 实例化“GPSDCurriculumDesign::Matrix<int>”的引用
+  MartixManipulation.vcxproj -> D:\vs2015en\project\CurriculumDesign\MartixManipulation\Debug\MartixManipulation.exe
+  MartixManipulation.vcxproj -> D:\vs2015en\project\CurriculumDesign\MartixManipulation\Debug\MartixManipulation.pdb (Full PDB)
